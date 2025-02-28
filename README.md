@@ -4,7 +4,7 @@
 #### *Heading 4*
 
 
-This is **bold** text
+This is bold text
 This will ** not ** work
 
 *Italics*
